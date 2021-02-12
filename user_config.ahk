@@ -128,3 +128,5 @@ CapsLock & Left::MoveCurrentWindowToLeftDesktop()
 
 ; ^#+Right::MoveCurrentWindowToRightDesktop()
 ; ^#+Left::MoveCurrentWindowToLeftDesktop()
+
+CapsLock::Send, #{Tab}
